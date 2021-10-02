@@ -1,0 +1,14 @@
+C:\Users\Michał\Desktop\Programowanie\CsConsoleTestApp-main\bin\Debug\netcoreapp3.1\CsConsoleTestApp.exe
+C:\Users\Michał\Desktop\Programowanie\CsConsoleTestApp-main\bin\Debug\netcoreapp3.1\CsConsoleTestApp.deps.json
+C:\Users\Michał\Desktop\Programowanie\CsConsoleTestApp-main\bin\Debug\netcoreapp3.1\CsConsoleTestApp.runtimeconfig.json
+C:\Users\Michał\Desktop\Programowanie\CsConsoleTestApp-main\bin\Debug\netcoreapp3.1\CsConsoleTestApp.runtimeconfig.dev.json
+C:\Users\Michał\Desktop\Programowanie\CsConsoleTestApp-main\bin\Debug\netcoreapp3.1\CsConsoleTestApp.dll
+C:\Users\Michał\Desktop\Programowanie\CsConsoleTestApp-main\bin\Debug\netcoreapp3.1\CsConsoleTestApp.pdb
+C:\Users\Michał\Desktop\Programowanie\CsConsoleTestApp-main\obj\Debug\netcoreapp3.1\CsConsoleTestApp.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\Programowanie\CsConsoleTestApp-main\obj\Debug\netcoreapp3.1\CsConsoleTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\Desktop\Programowanie\CsConsoleTestApp-main\obj\Debug\netcoreapp3.1\CsConsoleTestApp.AssemblyInfoInputs.cache
+C:\Users\Michał\Desktop\Programowanie\CsConsoleTestApp-main\obj\Debug\netcoreapp3.1\CsConsoleTestApp.AssemblyInfo.cs
+C:\Users\Michał\Desktop\Programowanie\CsConsoleTestApp-main\obj\Debug\netcoreapp3.1\CsConsoleTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Programowanie\CsConsoleTestApp-main\obj\Debug\netcoreapp3.1\CsConsoleTestApp.dll
+C:\Users\Michał\Desktop\Programowanie\CsConsoleTestApp-main\obj\Debug\netcoreapp3.1\CsConsoleTestApp.pdb
+C:\Users\Michał\Desktop\Programowanie\CsConsoleTestApp-main\obj\Debug\netcoreapp3.1\CsConsoleTestApp.genruntimeconfig.cache

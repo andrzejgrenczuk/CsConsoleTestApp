@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gIgxGXOwYo3OES0RNAnT/uUimlqmyNiNtdiPB3JrsVUfUqwe+S/pRBqZneX/lsbs6MJHk6ldaS/rFCeLlIVztw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michał\\Desktop\\Programowanie\\CsConsoleTestApp-main\\CsConsoleTestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michał\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
