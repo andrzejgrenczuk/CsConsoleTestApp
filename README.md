@@ -1,3 +1,2 @@
 # CsConsoleTestApp
-# CsConsoleTestApp
-# CsConsoleTestApp
+Self-learning of C#
